@@ -1,3 +1,8 @@
+.bg{
+    background: url(../img/bg.jpg) no-repeat;
+    /* background-size:cover; */
+    background-position: 2.5rem 2.5rem;
+}
 .like{
     width: 7.5rem;
     height: 10rem;
@@ -19,44 +24,33 @@
     margin-right: auto;
     font-size: 0.2rem;
 }
-#form{
-    position: absolute;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    display: none;
-}
-#form img{
-    width: 7.5rem;
-    height: 10rem;
-    margin-left: auto;
-    margin-right: auto;
-}
 #form1{
     width: 100%;
     height: 100%;
     position: absolute;
     top: 0;
     background-color: darkgrey;
-    opacity: 0.5;
+    opacity: 0.2;
     display: none;
 }
-#form2{
-    width: 50%;
-    height: 50%;
+#form{
+    width: 80%;
+    height: 40%;
     position: absolute;
-    top: 0;
-    left: 25%;
-    background-color: darkgray;
+    top: 5%;
+    left: 10%;
+    text-align: center;
+    background-position: 1.8rem 1.8rem;
     display: none;
 }
-#form2 button{
-    position: relative;
-    width: 2rem;
-    height: 0.5rem;  
-    left: 20%;
-    margin-top:40%;
-    color: red;
-    margin-top:8%;
-    color:red;
+
+#form2{
+    width: 80%;
+    height: 40%;
+    position: absolute;
+    top: 5%;
+    left: 10%;
+    text-align: center;
+    background-position: 1.8rem 1.8rem;
+    display: none;
 }
