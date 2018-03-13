@@ -1,14 +1,9 @@
 .like{
-<<<<<<< HEAD
-    background-color: yellow;
-=======
-    width: 3.75rem;
-    height: 6.67rem;
-    /* background-color: yellow; */
->>>>>>> f0fd6796507d8c12a5e98e620a06336f320d2ed2
-    margin-top: 0.6rem;
+    width: 7.5rem;
+    height: 10rem;
     margin-left: auto;
     margin-right: auto;
+    background-color: yellow;
 }
 .like h1{
     text-align: center;
@@ -33,8 +28,8 @@
     display: none;
 }
 #form img{
-    width: 3.75rem;
-    height: 6.67rem;
+    width: 7.5rem;
+    height: 10rem;
     margin-left: auto;
     margin-right: auto;
 }
@@ -54,20 +49,15 @@
     top: 0;
     left: 25%;
     background-color: darkgray;
-    /* opacity: 0.6; */
     display: none;
 }
 #form2 button{
     position: relative;
     width: 2rem;
     height: 0.5rem;  
-<<<<<<< HEAD
     left: 20%;
     margin-top:40%;
     color: red;
-=======
-    margin-left: 20%;
     margin-top:8%;
     color:red;
->>>>>>> f0fd6796507d8c12a5e98e620a06336f320d2ed2
 }
