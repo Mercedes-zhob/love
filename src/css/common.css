@@ -1,0 +1,56 @@
+.like{
+    width: 600px;
+    height: 600px;
+    /* background-color: yellow; */
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.like h1{
+    text-align: center;
+    padding-top: 100px;
+}
+.like input{
+    width: 100px;
+    height: 50px;
+    color: red;
+    margin-top: 100px;
+    margin-left: 120px;
+    font-size: 20px;
+}
+#form{
+    position: absolute;
+    top: 10%;
+    left: 20%;
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+#form1{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    background-color: darkgrey;
+    opacity: 0.5;
+    display: none;
+}
+#form2{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    top: 20%;
+    left: 25%;
+    background-color: darkgray;
+    /* opacity: 0.6; */
+    display: none;
+}
+#form2 button{
+    width: 200px;
+    height: 50px;  
+    margin-left: 270px;
+    margin-top:80px;
+}
+#form3{
+    
+}
