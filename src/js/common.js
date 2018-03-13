@@ -19,7 +19,6 @@ $('.yes').click(function(){
 })
 
 $('.no').click(function(){
-    console.log(123);
     $('#form1').css('display','none'); 
     $('#form2').css('display','none'); 
 })
