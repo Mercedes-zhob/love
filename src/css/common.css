@@ -27,6 +27,10 @@
     height: 100%;
     display: none;
 }
+#form img{
+    width: 3.75rem;
+    height: 6.67rem;
+}
 #form1{
     width: 100%;
     height: 100%;
@@ -40,7 +44,7 @@
     width: 50%;
     height: 50%;
     position: absolute;
-    top: 20%;
+    top: 5%;
     left: 25%;
     background-color: darkgray;
     /* opacity: 0.6; */
@@ -49,6 +53,6 @@
 #form2 button{
     width: 2rem;
     height: 0.5rem;  
-    margin-left: 2.7rem;
-    margin-top:0.8rem;
+    margin-left: 20%;
+    margin-top:8%;
 }
