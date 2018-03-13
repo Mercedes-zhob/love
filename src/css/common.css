@@ -1,5 +1,11 @@
 .like{
+<<<<<<< HEAD
     background-color: yellow;
+=======
+    width: 3.75rem;
+    height: 6.67rem;
+    /* background-color: yellow; */
+>>>>>>> f0fd6796507d8c12a5e98e620a06336f320d2ed2
     margin-top: 0.6rem;
     margin-left: auto;
     margin-right: auto;
@@ -55,7 +61,13 @@
     position: relative;
     width: 2rem;
     height: 0.5rem;  
+<<<<<<< HEAD
     left: 20%;
     margin-top:40%;
     color: red;
+=======
+    margin-left: 20%;
+    margin-top:8%;
+    color:red;
+>>>>>>> f0fd6796507d8c12a5e98e620a06336f320d2ed2
 }
